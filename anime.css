@@ -20,18 +20,18 @@ header, section, footer, aside, nav, article, hgroup{
 body{
 font-size: 20px;
 text-align: center;
-background: #7e09369d;
+background: #c0ccce;
 }
     
 .agrupar{
     width: 1200px;
     border: 1px solid black;
     margin: 15px auto;
-    background: rgba(202, 99, 15, 0.74);
+    background: #6a8bb4;
     
 }
 .cabecera{
-    background: rgba(108, 25, 156, 0.671);
+    background: #2d2879;
     border: 1px solid #999999;
     padding: 20px;
 }
@@ -41,7 +41,7 @@ background: #7e09369d;
 
 
 .menu{
-    background: #165e80 ;
+    background: #795b4e ;
     padding: 5px 15px;
     text-align: left;
 }
@@ -58,7 +58,7 @@ background: #7e09369d;
     float: left;
 }
 article{
-    background: #fffbcc;
+    background: #e9de40c9;
     border: 1px solid rgb(39, 14, 14);
     padding: 20px;
     margin-bottom: 15px;
@@ -88,7 +88,7 @@ article footer{
 .columna blockquote{
     border: 1px solid black;
     padding: 40px;      
-    background: #fffbb9;
+    background: #e9de40c9;
     margin-bottom: 20px;
 }
 .pie{
